@@ -39,7 +39,7 @@ module.exports = {
         }]
       ]
     },
-    vendor: [
+    vendor: ['babel-polyfill',
       '~/plugins/vuetify.js'
     ],
     extractCSS: true,

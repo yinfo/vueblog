@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "nuxt": "^1.4.1",
-    "vuetify": "^1.0.19"
+    "vuetify": "^1.0.19",
+    "babel-polyfill": "^6.26.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
