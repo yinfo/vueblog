@@ -13,9 +13,10 @@
     "heroku-postbuild": "npm run build"
   },
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "epubjs": "^0.3.63",
     "nuxt": "^1.4.1",
-    "vuetify": "^1.0.19",
-    "babel-polyfill": "^6.26.0"
+    "vuetify": "^1.0.19"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
