@@ -1,3 +1,4 @@
+
 {
   "name": "vueblog",
   "version": "1.0.0",
@@ -5,8 +6,9 @@
   "author": "Garry <yinfo@mail.ru>",
   "private": true,
   "scripts": {
-    "dev-debug": "node --inspect node_modules/nuxt/bin/nuxt",
     "dev": "nuxt",
+    "git add .":"git add .",
+    "dev-debug": "node --inspect node_modules/nuxt/bin/nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",

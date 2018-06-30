@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24eadfb7-8ab5-4824-93e0-1155681956b4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/components/vue-epub-reader/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/vue-epub-reader/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/vue-epub-reader/book-reader/BookReader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/vue-epub-reader/book-reader/BookReader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/vue-epub-reader/preferences-dropdown/PreferencesDropdown.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/vue-epub-reader/preferences-dropdown/PreferencesDropdown.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/inspire.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/inspire.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,6 +29,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="book-reader.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/book-reader/book-reader.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,30 +59,17 @@
       <file leaf-file-name="BookReader.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/book-reader/BookReader.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1153">
-              <caret line="364" column="3" selection-start-line="364" selection-start-column="3" selection-end-line="364" selection-end-column="3" />
-              <folding>
-                <element signature="n#template#0;n#!!top" />
-                <element signature="n#script#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="223">
+              <caret line="362" column="17" lean-forward="true" selection-start-line="362" selection-start-column="17" selection-end-line="362" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inspire.vue" pinned="false" current-in-tab="true">
+      <file leaf-file-name="inspire.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/inspire.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="653">
-              <caret line="237" selection-start-line="237" selection-end-line="237" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="preferences-dropdown.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/preferences-dropdown/preferences-dropdown.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="15" selection-end-line="56" selection-end-column="1" />
+            <state relative-caret-position="169">
+              <caret line="150" column="3" lean-forward="true" selection-start-line="144" selection-end-line="150" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -78,8 +77,17 @@
       <file leaf-file-name="PreferencesDropdown.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/preferences-dropdown/PreferencesDropdown.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="407">
               <caret line="218" column="3" selection-start-line="218" selection-start-column="3" selection-end-line="218" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeMenu.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/tree-menu/TreeMenu.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -115,6 +123,8 @@
       <find>mousedown</find>
       <find>window</find>
       <find>my-</find>
+      <find>readingProgress</find>
+      <find>.progress-bar</find>
     </findStrings>
     <dirStrings>
       <dir>D:\_Vue\vueblog</dir>
@@ -130,15 +140,17 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="vm:77" />
         <option value="$PROJECT_DIR$/layouts/default.vue" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/pages/index.vue" />
         <option value="$PROJECT_DIR$/components/vue-epub-reader/main.scss" />
         <option value="$PROJECT_DIR$/components/vue-epub-reader/index.js" />
         <option value="$PROJECT_DIR$/node_modules/eslint-config-standard/eslintrc.json" />
         <option value="$PROJECT_DIR$/nuxt.config.js" />
-        <option value="$PROJECT_DIR$/components/vue-epub-reader/book-reader/BookReader.vue" />
         <option value="$PROJECT_DIR$/components/vue-epub-reader/preferences-dropdown/PreferencesDropdown.vue" />
         <option value="$PROJECT_DIR$/pages/inspire.vue" />
+        <option value="$PROJECT_DIR$/components/vue-epub-reader/tree-menu/TreeMenu.vue" />
+        <option value="$PROJECT_DIR$/components/vue-epub-reader/book-reader/BookReader.vue" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -161,7 +173,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-12" />
     <option name="y" value="48" />
-    <option name="width" value="1935" />
+    <option name="width" value="1934" />
     <option name="height" value="1164" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -281,11 +293,11 @@
       <node-interpreter value="project" />
       <envs />
     </configuration>
-    <configuration name="dev_cross_env" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+    <configuration name="git add ." type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
-        <script value="dev_cross_env" />
+        <script value="git add ." />
       </scripts>
       <node-interpreter value="project" />
       <envs />
@@ -303,17 +315,17 @@
       <item itemvalue="Node.js.node" />
       <item itemvalue="npm.dev" />
       <item itemvalue="npm.build" />
-      <item itemvalue="npm.dev_cross_env" />
       <item itemvalue="npm.dev-debug" />
       <item itemvalue="npm.start" />
+      <item itemvalue="npm.git add ." />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.git add ." />
         <item itemvalue="npm.dev" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.dev-debug" />
         <item itemvalue="npm.start" />
-        <item itemvalue="npm.dev_cross_env" />
       </list>
     </recent_temporary>
   </component>
@@ -335,26 +347,27 @@
       <workItem from="1530263580401" duration="710000" />
       <workItem from="1530272715850" duration="2470000" />
       <workItem from="1530293933512" duration="934000" />
-      <workItem from="1530310024293" duration="2897000" />
+      <workItem from="1530310024293" duration="4570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26509000" />
+    <option name="totallyTimeSpent" value="28182000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1290" height="776" extended-state="0" />
+    <frame x="-8" y="32" width="1289" height="776" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.875" visible="true" weight="0.21308859" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.66842103" visible="true" weight="0.21325879" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.76935357" visible="true" weight="0.4375" />
-      <window_info id="npm" order="2" sideWeight="0.125" side_tool="true" visible="true" weight="0.21308859" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5207668" visible="true" weight="0.40625" />
+      <window_info id="npm" order="2" sideWeight="0.33157894" side_tool="true" visible="true" weight="0.21325879" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.23064645" side_tool="true" weight="0.4890625" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.47923324" side_tool="true" visible="true" weight="0.40625" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.46041667" weight="0.36546186" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -397,20 +410,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nuxt.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -666,13 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/book-reader/book-reader.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -680,14 +672,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/book-reader/BookReader.vue">
+    <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1153">
-          <caret line="364" column="3" selection-start-line="364" selection-start-column="3" selection-end-line="364" selection-end-column="3" />
-          <folding>
-            <element signature="n#template#0;n#!!top" />
-            <element signature="n#script#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -700,22 +688,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/preferences-dropdown/PreferencesDropdown.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="407">
           <caret line="218" column="3" selection-start-line="218" selection-start-column="3" selection-end-line="218" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/inspire.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        <state relative-caret-position="169">
+          <caret line="150" column="3" lean-forward="true" selection-start-line="144" selection-end-line="150" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/tree-menu/TreeMenu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/vue-epub-reader/book-reader/BookReader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="362" column="17" lean-forward="true" selection-start-line="362" selection-start-column="17" selection-end-line="362" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>

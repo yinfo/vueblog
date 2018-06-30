@@ -56,10 +56,10 @@
               /> %
               <input type="text" id="input-progress-bar-value"
                      @change="props.onChange($event.target.value)"
-                     <!--@mousedown="props.onMousedown"-->
-                     <!--@mouseup="props.onMouseup"-->
                      :value="readingProgress"
               >
+              <!--@mousedown="props.onMousedown"-->
+              <!--@mouseup="props.onMouseup"-->
             </div>
           </template>
         </BookReader>
@@ -84,8 +84,8 @@
     data() {
       return {
         url: "https://s3-eu-west-1.amazonaws.com/react-reader/alice.epub",
-        size: 80,
-        currentTheme: "beige",
+        size: 90,
+        currentTheme: "night",
         themes: {
           white: {
             body: {

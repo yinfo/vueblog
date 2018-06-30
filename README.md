@@ -1,3 +1,11 @@
+
+в цикле
+git add .
+git commit -m "new commit"
+git push -u vueblog master
+
+
+
 # vueblog
 
 > Nuxt.js + Vuetify.js project
