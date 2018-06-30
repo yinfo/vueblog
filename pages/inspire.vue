@@ -84,7 +84,7 @@
     data() {
       return {
         url: "https://s3-eu-west-1.amazonaws.com/react-reader/alice.epub",
-        size: 90,
+        size: 70,
         currentTheme: "night",
         themes: {
           white: {

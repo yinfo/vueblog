@@ -7,7 +7,6 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "git add .":"git add .",
     "dev-debug": "node --inspect node_modules/nuxt/bin/nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
